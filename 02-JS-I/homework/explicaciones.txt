@@ -1,0 +1,17 @@
+= Explicacion a niño de 12 años =
+
+Variables: son como una caja donde puedes alamcenar objetos para después poder usarlos.
+
+Strings: son letras o palabras, cualquier cosa entre comillas.
+
+Funciones: es un código que puedes llamar cada vez que lo necesites sin necesidad de reescribir el código desde 0.
+
+Argumentos: son variables que podemos usar dentro de nuentras funciones.
+
+Return: es cuando queremos obtener el valor de una función y ahí se termina el proceso.
+
+Declaración if: es un control de flujo para verificar si algo es verdadero.
+
+True: es un valor boolean que resulta cuando una condición es verdadera.
+
+False: es un valor boolean que resulta cuando una condición es falsa.
