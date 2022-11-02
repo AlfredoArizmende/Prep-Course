@@ -1,0 +1,9 @@
+Explicacion de lo apendido
+
+For: es un bucle que nos permite ejecutar n número de veces un código hasta que la condisión sea falsa.
+
+&&: es un operador lógico y nos ayduara a evaluar 2 o más expresiones y si una expresion es falsa este operador devolvera false de lo contrario si todas son verdaderas devolvera true.
+
+||: es un operador lógico y nos ayduara a evaluar 2 o más expresiones y si una expresion es verdadera este operador devolvera true de lo contrario si todas son falsas devolvera false.
+
+!: es un operador lógico que nos devolvera un valor booleano opuesto al valor real.
