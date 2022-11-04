@@ -1,0 +1,12 @@
+Objetos: son muy similares a los arreglos, también sirven para alamacenar cosas pero a diferencia de los arreglos para obtner información tenemos que usar una clave en string.
+
+Propiedades: son variables donde podemos guardar cualquier tipo de información.
+
+Métodos: un metodo es una función que nos ayuda a realizar cierto proceso.
+
+Bucle for…in: nos sirve para poder iterar en todo el objeto.
+
+Notación de puntos vs notación de corchetes: 
+La notación de puntos nos sirve para traer el valor de una propiedad por medio de un punto.
+
+La de corchetes sirve para obtener el valor de una propiedad pero esta la tenemos que escribir entre corchetes para agregar un string o un número.
