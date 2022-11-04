@@ -1,0 +1,1 @@
+Arrays: es como una caja donde se pueden alamcenar diferentes cosas para después poder utilizarlas.
