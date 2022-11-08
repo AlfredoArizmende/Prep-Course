@@ -1,0 +1,5 @@
+== Explicaciones ==
+
+prototype: es una forma unica de establecer un metodo una vez y dar acceso a cada objeto de una clase.
+
+Constructors: es como crear una plantilla para despues crear muchos objetos sin repetir código.
