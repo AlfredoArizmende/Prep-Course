@@ -1,0 +1,3 @@
+== Explicacion ==
+
+Funciones Callback: es la capacidad de pasar una funsión como argumento a otra funsión.
